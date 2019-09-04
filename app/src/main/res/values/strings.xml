@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Signature</string>
+    <string name="clear">Clear</string>
+    <string name="save">save</string>
+</resources>
